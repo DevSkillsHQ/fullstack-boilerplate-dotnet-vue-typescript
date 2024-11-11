@@ -1,0 +1,16 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget"
+    directory: "/app-backend"
+    schedule:
+      interval: "daily"
+    labels:
+      - "dotnet"
+      - "dependencies"
+  - package-ecosystem: "npm"
+    directory: "/app-frontend"
+    schedule:
+      interval: "daily"
+    labels:
+      - "npm"
+      - "dependencies"
