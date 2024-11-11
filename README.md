@@ -18,6 +18,7 @@ A backbone for your coding challenge.
 
 - Vue 3
 - Vite
+- Typescript
 
 #### Additional libs
 
