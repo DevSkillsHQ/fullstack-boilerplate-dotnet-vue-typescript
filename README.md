@@ -20,10 +20,6 @@ A backbone for your coding challenge.
 - Vite
 - Typescript
 
-#### Additional libs
-
-- Vitest (testing)
-
 ### Misc
 
 - Cypress

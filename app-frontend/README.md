@@ -34,8 +34,6 @@ To learn more about Vite, check out the [Vite documentation](https://vitejs.dev/
 
 To learn more about Vue, check out the [Vue documentation](https://vuejs.org/).
 
-For testing with Vitest, refer to the [Vitest documentation](https://vitest.dev/guide/).
-
 ### Vite Configuration
 
 You can customize the Vite configuration in the `vite.config.js` file. For more information, see the [Vite Config Reference](https://vitejs.dev/config/).
