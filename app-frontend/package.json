@@ -9,13 +9,13 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.43"
+    "vue": "^3.5.44"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.10",
     "typescript": "^5.9.3",
     "vite": "^8.3.4",
-    "vue-tsc": "^3.3.12"
+    "vue-tsc": "^3.3.13"
   },
   "engines": {
     "node": ">=18.19.0"
